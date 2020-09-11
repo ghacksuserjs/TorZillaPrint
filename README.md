@@ -1,3 +1,3 @@
 TZP HAS MOVED
-- New Site: [https://torzillafox.github.io/tzp/tzp.html](https://torzillafox.github.io/tzp/tzp.html)
-- New GitHub: [https://github.com/TorZillaFox/tzp](https://github.com/TorZillaFox/tzp)
+- New Site: [https://hardenff.github.io/tzp/tzp.html](https://hardenFF.github.io/tzp/tzp.html)
+- New GitHub: [https://github.com/hardenFF/tzp)(https://github.com/hardenFF/tzp)
